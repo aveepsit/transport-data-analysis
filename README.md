@@ -6,7 +6,7 @@ Data Analysis for transport data.
 
 1. Data Cleaning
 
-## Data Cleaning
+## 1 - Data Cleaning
 
 In data cleaning following were performed in sequence:
 
