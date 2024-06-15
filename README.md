@@ -14,3 +14,5 @@ In data cleaning following were performed in sequence:
 2. Remove Blank Rows
 3. No `Error` fields were present, hence Error Revoval skipped.
 4. No `NULL` values are present, hence NULL Removal skipped.
+
+![Cleaning and Loading in Excel](assets\images\00-order-data-cleaned.png "Cleaning and Loading in Excel")
